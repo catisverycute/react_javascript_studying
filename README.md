@@ -1,2 +1,2 @@
-# react_javascript_studying
-studying javascript &amp; react
+# studying_flutter
+studying flutterapp
